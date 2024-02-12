@@ -1,6 +1,6 @@
 # About me
 
-**Keke2410/Keke2410** is a ✨ _Hey_ ✨ 
+**Keke2410/Keke2410** is ✨ _Just a girlie_ ✨ 
 
 - 🔭 I’m currently working on my bootcamp
 - 🥺 I’m currently learning how to code
