@@ -1,6 +1,6 @@
 # About me
 
-**Keke2410/Keke2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Keke2410/Keke2410** is a ✨ _Hey_ ✨ 
 
 - 🔭 I’m currently working on my bootcamp
 - 🥺 I’m currently learning how to code
